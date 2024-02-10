@@ -1,0 +1,2 @@
+def arithmetic():
+    print("Arithmetic")
